@@ -1,0 +1,306 @@
+- children:
+  - 9eMOZ7lLasc4X1I8uRHRJ9hs
+  content: Koronaviruso Prevencija Lietuvoje
+  created: 1584375657969
+  id: root
+  modified: 1584516688684
+  note: https://0oo.li/intent/1247/?l=lt  (sąrašas yra viešai redaguojamas, ir backup'inamas)
+- checkbox: true
+  checked: true
+  content: 'Draudžiama į šalį atvykti užsieniečiams, išskyrus asmenis, užtikrinančius
+    būtinų prekių pristatymą į Lietuvą, įgulų narius, Lietuvos piliečių šeimos narius,
+    asmenis, turinčius teisę gyventi ir dirbti Lietuvoje, diplomatus, NATO karinių
+    misijų atstovus. Laikinai būtų paliekamas humanitarinis koridorius Latvijos, Estijos
+    piliečiams pasiekti savo šalis. '
+  created: 1584375669223
+  id: uiEpucZFKlyuuS8yh0y6LfAh
+  modified: 1584375830225
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Gydymo įstaigose atidedamos planinės operacijos, išskyrus būtiną medicininę
+    pagalbą, atšaukiamos reabilitacijos, odontologijos paslaugos, planiniai skiepai.
+  created: 1584375669700
+  id: BEQNjC5k3NtdEhJ5E1wKq21U
+  modified: 1584375872212
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Draudžiamas pacientų lankymas gydymo įstaigose, kalinių – įkalinimo įstaigose.
+  created: 1584375669698
+  id: nzT1shGTNlHB5UUDVuZqee_P
+  modified: 1584375854206
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Draudžiama teikti SPA, reabilitacijos paslaugas, jei jos nėra susijusios
+    su gydymu, draudžiama kirpyklų, grožio salonų veikla.
+  created: 1584375669698
+  id: jqUyChqz8WwiGvV359-W6JRG
+  modified: 1584375854206
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Draudžiama kavinių, barų veikla, išskyrus maisto išsinešimui paslaugą.
+  created: 1584375669697
+  id: xjLas_ztVl2bC1QjPSjZYPBr
+  modified: 1584375842215
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Uždrausta prekyba parduotuvėse, išskyrus maisto prekių parduotuves, vaistines,
+    specializuotas veterinarijos vaistines, maisto produktais prekiaujančius turgus.
+  created: 1584375669696
+  id: SFrvKWH3-nlq_Etl76Qsa_v4
+  modified: 1584375842215
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  checked: true
+  content: Draudžiama Lietuvos piliečiams visų rūšių transportu išvykti į koronaviruso
+    paveiktas valstybes. Taip pat svarstoma galimybė uždrausti išvykimą bet kur į
+    užsienį ne darbo tikslais.
+  created: 1584375669696
+  id: 6jn8VbyjVEmusvFL_VAofLk9
+  modified: 1584375836201
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Ribojamas keleivių skaičius tarpmiestiniuose autobusuose ir traukiniuose,
+    kad būtų išlaikomas reikiamas atstumas tarp keleivių. Rekomenduojama tai taikyti
+    ir miestų transportui.
+  created: 1584375669699
+  id: aEePDGJlKp3YnPj9BdZ0Yte2
+  modified: 1584375860204
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Švietimo įstaigos toliau lieka uždarytos.
+  created: 1584375669699
+  id: RwjjqUlGk4XJMN5I6fi3uSNh
+  modified: 1584375866207
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  checked: true
+  content: Sumažinama pasienio kontrolės punktų, per kuriuos galima atvykti į Lietuvą,
+  created: 1584375669695
+  id: iETXbYg_NJ72EMCIJP6PBAMi
+  modified: 1584375824723
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Draudžiami visi vieši renginiai, tiek uždarose, tiek atvirose erdvėse.
+  created: 1584375669697
+  id: SlFsb90T9GVu-sY9isFaTHw2
+  modified: 1584375842215
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Draudžiama viešojo administravimo įstaigoms teikti nebūtinas paslaugas.
+  created: 1584375669698
+  id: 02BOLDGQ2_ea3pKWo2jLMHnb
+  modified: 1584375848220
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Draudžiama patekti kruiziniams laivams į Klaipėdos jūrų uostą.
+  created: 1584375669697
+  id: j3ufmhMGO736oI9ayrHAAr5E
+  modified: 1584375848220
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Viešbučiai, esant reikalui, turės įsileisti žmones į karantiną, valstybei
+    už tai apmokant.
+  created: 1584375669699
+  id: JNxSK4STyIUU39gkR160gkFN
+  modified: 1584375866207
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- checkbox: true
+  content: Tiek viešajame, tiek privačiame sektoriuje darbuotojams rekomenduojama
+    dirbti iš namų.
+  created: 1584375669700
+  id: sOTgXmTw_1ohysMUdebSdD83
+  modified: 1584375872212
+  note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
+    !(2020-03-14) '
+- children:
+  - o8UN1sL31yt2TIDGsdnuNVb8
+  - NcWJ2lUEourpZ-zEOtgWM7XF
+  - BPTRXXN6Fan1QyoO09yizoQx
+  - zSzqMJawXMdv621Aibn0Q7dn
+  - JNxSK4STyIUU39gkR160gkFN
+  - BEQNjC5k3NtdEhJ5E1wKq21U
+  - sOTgXmTw_1ohysMUdebSdD83
+  - I3jaxBMzIFfTwUN6KEpFOfHz
+  content: '**Priemonės** __(statykite kursorių, spauskite "Enter", kad įterpti naują
+    eilutę)__'
+  created: 1584375725640
+  id: 9eMOZ7lLasc4X1I8uRHRJ9hs
+  modified: 1584516748644
+  note: ''
+- children:
+  - uiEpucZFKlyuuS8yh0y6LfAh
+  - iETXbYg_NJ72EMCIJP6PBAMi
+  - 6jn8VbyjVEmusvFL_VAofLk9
+  - SFrvKWH3-nlq_Etl76Qsa_v4
+  - xjLas_ztVl2bC1QjPSjZYPBr
+  - SlFsb90T9GVu-sY9isFaTHw2
+  - j3ufmhMGO736oI9ayrHAAr5E
+  - 02BOLDGQ2_ea3pKWo2jLMHnb
+  - nzT1shGTNlHB5UUDVuZqee_P
+  - jqUyChqz8WwiGvV359-W6JRG
+  - aEePDGJlKp3YnPj9BdZ0Yte2
+  - RwjjqUlGk4XJMN5I6fi3uSNh
+  content: '**Izoliavimasis / Karantinavimasis**'
+  created: 1584375909953
+  id: oZ7vUXODBQiEOa2bAv7bkhA_
+  modified: 1584376875480
+  note: ''
+- checkbox: true
+  content: Dažnas rankų plovimas
+  created: 1584375966926
+  id: OlfzEwtIeauS7rTx5N-zqACo
+  modified: 1584376005475
+  note: ''
+- children:
+  - jD1K8_inYDX566A6yyA7aqrn
+  - OlfzEwtIeauS7rTx5N-zqACo
+  - t2qAaB7RzdRV_oaWoTj8Ep2d
+  - 1SkuiK_ye5hNCNA2RrOKDVQc
+  content: '**Higienos**'
+  created: 1584375965389
+  id: zSzqMJawXMdv621Aibn0Q7dn
+  modified: 1584375969963
+  note: ''
+- checkbox: true
+  content: Turėklų ir dažnai žmonių liečiamų paviršių dezinfekcija
+  created: 1584375976096
+  id: 1SkuiK_ye5hNCNA2RrOKDVQc
+  modified: 1584376005475
+  note: ''
+- children:
+  - 5GMLKYGvSVwTbvp8J3x-M8Yx
+  - LTThRjir2GFQDxOPIoLs_zV7
+  - VITQwadaB_4A1Yy_61RrNGoE
+  content: '**Strateginės/Grafų teorijos**'
+  created: 1584376261037
+  id: o8UN1sL31yt2TIDGsdnuNVb8
+  modified: 1584376287482
+  note: ''
+- checkbox: true
+  content: __Kontaktų atsekimas (Contact Tracing)__
+  created: 1584376264163
+  id: LTThRjir2GFQDxOPIoLs_zV7
+  modified: 1584376761486
+  note: Yra kritiška greitai atsketi, ir izoliuoti tuos, su kuriais užsikrėtusieji
+    bendravo. Pvz., visi žmonės atskridę lėktuvu su kuriuo atskrido žmogus, kuris
+    buvo apsikrėtęs, turėtų būti karantinuoti.
+- children:
+  - pMYqJDj4Kdml9bYvbG_0QJtS
+  - VmR-1rQTDjn0CEiVBRqTrmq-
+  content: '**Ekonominės**'
+  created: 1584376296407
+  id: BPTRXXN6Fan1QyoO09yizoQx
+  modified: 1584376311470
+  note: ''
+- checkbox: true
+  content: Stimulo paketai įmonėms, kurios vysto sprendimus
+  created: 1584376311632
+  id: pMYqJDj4Kdml9bYvbG_0QJtS
+  modified: 1584376780085
+  note: ''
+- checkbox: true
+  content: Mokesčių atidėjimai
+  created: 1584376320934
+  id: VmR-1rQTDjn0CEiVBRqTrmq-
+  modified: 1584376780085
+  note: '[delfi.lt](https://www.delfi.lt/verslas/verslas/nauseda-uzsimine-ko-bus-imtasi-del-koronaviruso-poveikio-ekonomikai-mazetu-mokesciai-didetu-viesosios-islaidos.d?id=83759703)
+    !(2020-03-13 12:41)  '
+- checkbox: true
+  content: __Retas aptarnavimas (Sparse Serving)__
+  created: 1584376472809
+  id: VITQwadaB_4A1Yy_61RrNGoE
+  modified: 1584376761486
+  note: Apsipirkimus daryti retus, ir didesniais kiekiais,.
+- checkbox: true
+  content: Kaukės, ir kosėjimo / čiaudėjimo užsidengimas
+  created: 1584376563024
+  id: t2qAaB7RzdRV_oaWoTj8Ep2d
+  modified: 1584376576084
+  note: ''
+- children:
+  - vZ6vqLTTx6fukGl4p7gTjNg-
+  - oZ7vUXODBQiEOa2bAv7bkhA_
+  content: '**Elgesio**'
+  created: 1584376631931
+  id: I3jaxBMzIFfTwUN6KEpFOfHz
+  modified: 1584376641458
+  note: ''
+- checkbox: true
+  content: Įtarus informuoti telefonu gydytojus, o ne patiem važiuoti.
+  created: 1584376635907
+  id: vZ6vqLTTx6fukGl4p7gTjNg-
+  modified: 1584376773468
+  note: ''
+- children:
+  - 79KhodaFzoG9gdX-ZPdLzYtS
+  - rvg0X6pzcemLlZlzla8sUELL
+  - tTSLMw_nfThBP2-rKP0YB_da
+  - dR67QkhQY1ojeiwJ_CtFreJG
+  - yCsXMUMqVboTvp6CkadM8FtU
+  content: '**Fizikinės/Biologinės**'
+  created: 1584376928223
+  id: NcWJ2lUEourpZ-zEOtgWM7XF
+  modified: 1584376947461
+  note: ''
+- checkbox: true
+  content: Temperatūros kontrolė
+  created: 1584376939692
+  id: rvg0X6pzcemLlZlzla8sUELL
+  modified: 1584378877527
+  note: ''
+- checkbox: true
+  content: Drėgmės kontrolė
+  created: 1584376946174
+  id: tTSLMw_nfThBP2-rKP0YB_da
+  modified: 1584378877527
+  note: ''
+- checkbox: true
+  content: Technika deaktyvuoti virusą aerozoliais.
+  created: 1584376949924
+  id: yCsXMUMqVboTvp6CkadM8FtU
+  modified: 1584378895084
+  note: Pvz., Kinijoje purškiamos gatvės
+- checkbox: true
+  content: UV ir kt. radiacija.
+  created: 1584376981003
+  id: dR67QkhQY1ojeiwJ_CtFreJG
+  modified: 1584378877527
+  note: ''
+- checkbox: true
+  content: '__Super-skleidėjų identifikavimas ir ypatingų priemonių paskyrimas (Preventing
+    superspreaders)__ '
+  created: 1584378243869
+  id: 5GMLKYGvSVwTbvp8J3x-M8Yx
+  modified: 1584518134645
+  note: Visuomenės dalis, kuri yra aktyviai bendraujanti, dažnai važinėjanti, kelia
+    didžiausią riziką virusui skleisti -- vadinasi, per ją galime laimėti daugiausiai.
+    Jei žmogus susitinka 10x daugiau žmonių nei standartinis žmogus, tai jis turėtų
+    imtis 10x rimtesnių priemonių skleidimo prevencijai. Pvz., tai, kad lyderiai,
+    kuriems tenka dažnai susitikti įvairių žmonių, būtų be kaukių, ar drovėtųsi užsidėti
+    kaukių, yra neracionalu.
+- checkbox: true
+  content: Dažnas patalpų vėdinimas
+  created: 1584381626263
+  id: jD1K8_inYDX566A6yyA7aqrn
+  modified: 1584381653124
+  note: ''
+- checkbox: true
+  content: Oro krypčių kontrolė
+  created: 1584381649898
+  id: 79KhodaFzoG9gdX-ZPdLzYtS
+  modified: 1584382903035
+  note: ''
