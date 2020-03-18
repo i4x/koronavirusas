@@ -3,8 +3,8 @@
   content: Koronaviruso Prevencija Lietuvoje
   created: 1584375657969
   id: root
-  modified: 1584516688684
-  note: https://0oo.li/intent/1247/?l=lt  (sąrašas yra viešai redaguojamas, ir backup'inamas)
+  modified: 1584535958731
+  note: https://0oo.li/intent/1247/?l=lt  (sąrašas yra viešai redaguojamas, ir [backup](https://github.com/i4x/koronavirusas)'inamas)
 - checkbox: true
   checked: true
   content: 'Draudžiama į šalį atvykti užsieniečiams, išskyrus asmenis, užtikrinančius
