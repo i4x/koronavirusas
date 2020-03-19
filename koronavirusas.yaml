@@ -1,13 +1,15 @@
 - children:
   - PNnB3Wn07GEFCIq-nT2VEUxU
   - 9eMOZ7lLasc4X1I8uRHRJ9hs
-  content: Koronaviruso Prevencija Lietuvoje
+  content: Koronaviruso prevencija Lietuvoje
   created: 1584375657969
   id: root
-  modified: 1584545875607
-  note: 'https://0oo.li/intent/1247/?l=lt  (sąrašas yra viešai redaguojamas, ir [backup](https://github.com/i4x/koronavirusas)''inamas)
+  modified: 1584601068283
+  note: 'https://0oo.li/intent/1247/?l=lt  (sąrašas yra viešai redaguojamas, ir [GitHub:backup](https://github.com/i4x/koronavirusas)''inamas)
 
-    **Rašykite, ir žymėkite varnele priemones, kurios jau apsvarstytos, ir įgyvendinamos.**'
+    **Rašykite, ir žymėkite varnele priemones, kurios jau apsvarstytos, ir įgyvendinamos.**
+
+    [Redagavimo pagalba](https://dynalist.io/d/Fe_0fD6kKjAN82TQjASOSD10).'
 - checkbox: true
   checked: true
   content: 'Draudžiama į šalį atvykti užsieniečiams, išskyrus asmenis, užtikrinančius
@@ -138,11 +140,10 @@
   - BEQNjC5k3NtdEhJ5E1wKq21U
   - sOTgXmTw_1ohysMUdebSdD83
   - I3jaxBMzIFfTwUN6KEpFOfHz
-  content: '**Priemonės** __(statykite kursorių, spauskite "Enter", kad įterpti naują
-    eilutę)__'
+  content: '**Priemonės**'
   created: 1584375725640
   id: 9eMOZ7lLasc4X1I8uRHRJ9hs
-  modified: 1584516748644
+  modified: 1584600462178
   note: ''
 - children:
   - uiEpucZFKlyuuS8yh0y6LfAh
@@ -162,82 +163,78 @@
   id: oZ7vUXODBQiEOa2bAv7bkhA_
   modified: 1584376875480
   note: ''
-- checkbox: true
-  content: Dažnas rankų plovimas
+- content: Dažnas rankų plovimas
   created: 1584375966926
   id: OlfzEwtIeauS7rTx5N-zqACo
-  modified: 1584376005475
+  modified: 1584600545629
   note: ''
 - children:
   - jD1K8_inYDX566A6yyA7aqrn
   - OlfzEwtIeauS7rTx5N-zqACo
   - t2qAaB7RzdRV_oaWoTj8Ep2d
   - 1SkuiK_ye5hNCNA2RrOKDVQc
+  collapsed: true
   content: '**Higienos**'
   created: 1584375965389
   id: zSzqMJawXMdv621Aibn0Q7dn
   modified: 1584375969963
   note: ''
-- checkbox: true
-  content: Turėklų ir dažnai žmonių liečiamų paviršių dezinfekcija
+- content: Turėklų ir dažnai žmonių liečiamų paviršių dezinfekcija
   created: 1584375976096
   id: 1SkuiK_ye5hNCNA2RrOKDVQc
-  modified: 1584376005475
+  modified: 1584600545629
   note: ''
 - children:
   - 5GMLKYGvSVwTbvp8J3x-M8Yx
   - LTThRjir2GFQDxOPIoLs_zV7
   - VITQwadaB_4A1Yy_61RrNGoE
   - d5Cl3njkYCRQrKPSG7Nee3vS
+  collapsed: true
   content: '**Strateginės/Grafų teorijos**'
   created: 1584376261037
   id: o8UN1sL31yt2TIDGsdnuNVb8
   modified: 1584376287482
   note: ''
-- checkbox: true
-  children:
+- children:
   - 9kfTlImcbWgz7gTlTnhsqnXB
   content: __Kontaktų atsekimas (Contact Tracing)__
   created: 1584376264163
   id: LTThRjir2GFQDxOPIoLs_zV7
-  modified: 1584376761486
+  modified: 1584600498113
   note: Yra kritiška greitai atsketi, ir izoliuoti tuos, su kuriais užsikrėtusieji
     bendravo. Pvz., visi žmonės atskridę lėktuvu su kuriuo atskrido žmogus, kuris
     buvo apsikrėtęs, turėtų būti karantinuoti.
 - children:
   - pMYqJDj4Kdml9bYvbG_0QJtS
   - VmR-1rQTDjn0CEiVBRqTrmq-
+  collapsed: true
   content: '**Ekonominės**'
   created: 1584376296407
   id: BPTRXXN6Fan1QyoO09yizoQx
   modified: 1584376311470
   note: ''
-- checkbox: true
-  children:
+- children:
   - UYG_nW99EjOhz2t-ya-LqalN
   content: Stimulo paketai įmonėms, kurios vysto sprendimus
   created: 1584376311632
   id: pMYqJDj4Kdml9bYvbG_0QJtS
-  modified: 1584376780085
+  modified: 1584600533654
   note: ''
-- checkbox: true
-  content: Mokesčių atidėjimai
+- content: Mokesčių atidėjimai
   created: 1584376320934
   id: VmR-1rQTDjn0CEiVBRqTrmq-
-  modified: 1584376780085
+  modified: 1584600533654
   note: '[delfi.lt](https://www.delfi.lt/verslas/verslas/nauseda-uzsimine-ko-bus-imtasi-del-koronaviruso-poveikio-ekonomikai-mazetu-mokesciai-didetu-viesosios-islaidos.d?id=83759703)
     !(2020-03-13 12:41)  '
-- checkbox: true
-  content: __Retas aptarnavimas (Sparse Serving)__
+- content: __Retas aptarnavimas (Sparse Serving)__
   created: 1584376472809
   id: VITQwadaB_4A1Yy_61RrNGoE
-  modified: 1584376761486
+  modified: 1584600498113
   note: Apsipirkimus daryti retus, ir didesniais kiekiais,.
-- checkbox: true
-  content: Kaukės, ir kosėjimo / čiaudėjimo užsidengimas
+- content: Kaukės, ir kosėjimo / čiaudėjimo užsidengimas
   created: 1584376563024
   id: t2qAaB7RzdRV_oaWoTj8Ep2d
-  modified: 1584376576084
+  modified: 1584600545629
   note: ''
 - children:
   - vZ6vqLTTx6fukGl4p7gTjNg-
@@ -261,97 +258,87 @@
   - yCsXMUMqVboTvp6CkadM8FtU
   - g2-Jzcq6M7Q3FXfidTzwbBar
   - QccavNuGxbKfa1nBjZJvNRhb
+  collapsed: true
   content: '**Fizikinės/Biologinės/Cheminės**'
   created: 1584376928223
   id: NcWJ2lUEourpZ-zEOtgWM7XF
   modified: 1584596323939
   note: ''
-- checkbox: true
-  content: Temperatūros kontrolė
+- content: Temperatūros kontrolė
   created: 1584376939692
   id: rvg0X6pzcemLlZlzla8sUELL
-  modified: 1584597167471
+  modified: 1584600521643
   note: + SARS-CoV inaktyvavimui reikėjo terminio apdorojimo 60 laipsnių C temperatūroje
     nuo 15 iki 30 minučių. [ref](https://pubmed.ncbi.nlm.nih.gov/17002634/)
-- checkbox: true
-  content: Drėgmės kontrolė
+- content: Drėgmės kontrolė
   created: 1584376946174
   id: tTSLMw_nfThBP2-rKP0YB_da
-  modified: 1584378877527
+  modified: 1584600521643
   note: ''
-- checkbox: true
-  content: Technika deaktyvuoti virusą aerozoliais.
+- content: Technika deaktyvuoti virusą aerozoliais.
   created: 1584376949924
   id: yCsXMUMqVboTvp6CkadM8FtU
-  modified: 1584378895084
+  modified: 1584600521643
   note: Pvz., Kinijoje purškiamos gatvės
-- checkbox: true
-  content: UV ir kt. radiacija.
+- content: UV ir kt. radiacija.
   created: 1584376981003
   id: dR67QkhQY1ojeiwJ_CtFreJG
-  modified: 1584597179512
+  modified: 1584600521643
   note: + UVC veiksmingai suaktyvino SARS-CoV per 40 minučių, tuo tarpu UVA reikėjo
     pridėti psoraleno, kad būtų galima aktyvinti virusą. Galvijų serumo albumino buvimas
     apribojo UVC ir UVA sugebėjimą inaktyvinti SARS-CoV, o gydymas oktano rūgštimi
     nesumažina SARS-CoV turinčių baltymų tirpalų užkrečiamumo. [ref](https://pubmed.ncbi.nlm.nih.gov/17002634/)
-- checkbox: true
-  content: '__Super-skleidėjų identifikavimas ir ypatingų priemonių paskyrimas (Preventing
+- content: '__Super-skleidėjų identifikavimas ir ypatingų priemonių paskyrimas (Preventing
     superspreaders)__ '
   created: 1584378243869
   id: 5GMLKYGvSVwTbvp8J3x-M8Yx
-  modified: 1584518134645
+  modified: 1584600498113
   note: Visuomenės dalis, kuri yra aktyviai bendraujanti, dažnai važinėjanti, kelia
     didžiausią riziką virusui skleisti -- vadinasi, per ją galime laimėti daugiausiai.
     Jei žmogus susitinka 10x daugiau žmonių nei standartinis žmogus, tai jis turėtų
     imtis 10x rimtesnių priemonių skleidimo prevencijai. Pvz., tai, kad lyderiai,
     kuriems tenka dažnai susitikti įvairių žmonių, būtų be kaukių, ar drovėtųsi užsidėti
     kaukių, yra neracionalu.
-- checkbox: true
-  content: Dažnas patalpų vėdinimas
+- content: Dažnas patalpų vėdinimas
   created: 1584381626263
   id: jD1K8_inYDX566A6yyA7aqrn
-  modified: 1584381653124
+  modified: 1584600545629
   note: ''
-- checkbox: true
-  content: Oro krypčių kontrolė
+- content: Oro krypčių kontrolė
   created: 1584381649898
   id: 79KhodaFzoG9gdX-ZPdLzYtS
-  modified: 1584382903035
+  modified: 1584600521643
   note: ''
-- content: __[Čia bet kas gali rašyti.]__
+- content: __Čia gali rašyti bet kas. Jei kas ką ištrynė, tai pasimatys [istorijoje](https://github.com/i4x/koronavirusas/commits/master).__
   created: 1584537925548
   id: PNnB3Wn07GEFCIq-nT2VEUxU
-  modified: 1584538011071
-  note: ''
-- checkbox: true
-  children:
+  modified: 1584600940214
+  note: __(statykite kursorių **bet kur**, spauskite "Enter", kad įterpti naują eilutę)__
+- children:
   - lk5mW3eSRBOQAQuAnS6f3Z-V
   content: Paviršių savybės ir dizinfekcija
   created: 1584596324844
   id: g2-Jzcq6M7Q3FXfidTzwbBar
-  modified: 1584597119491
+  modified: 1584600521643
   note: ''
-- checkbox: true
-  content: Kombinuoti kontaktų atsekimą su dizinfekcija -- Sodininkai turi priemonių
-    purkšti medžius aerozoliais.
+- content: Kombinuoti kontaktų atsekimą su dezinfekcija -- pvz., sodininkai turi priemonių
+    purkšti medžius aerozoliais [**Fizikinės/Biologinės/Cheminės**](https://dynalist.io/d/YO2BEN6Ng1CoJQ1Gzi4tfWHE#z=NcWJ2lUEourpZ-zEOtgWM7XF)
   created: 1584596408765
   id: 9kfTlImcbWgz7gTlTnhsqnXB
-  modified: 1584597287473
+  modified: 1584600498113
   note: ''
-- checkbox: true
-  content: Varis, Alkoholis, Vandenio Peroksidas, Buitinis Baliklis
+- content: Varis, Alkoholis, Vandenio Peroksidas, Buitinis Baliklis
   created: 1584597079494
   id: lk5mW3eSRBOQAQuAnS6f3Z-V
-  modified: 1584597125487
+  modified: 1584600521643
   note: 'Čia dėl varinių paviršių - viruso degradacija, ir pusamžis. Žinutė: variniai
     paviršiai save dezinfekuojasi per 4 valandas... Bet yra greitesnis sprendimas
     - 62–71% alkoholio tirpalas, arba 0,5% vandenilio peroksido tirpalas, arba buitinis
     baliklis, kuriame yra 0,1% natrio hipochlorito. [https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home](https://slack-redir.net/link?url=https%3A%2F%2Fwww.nejm.org%2Fdoi%2Ffull%2F10.1056%2FNEJMc2004973%3Fquery%3Dfeatured_home)'
-- checkbox: true
-  content: „Triton X-100“ - 2 val.,, „Tween 80“- 4 val., ir natrio cholatai - 24 val
+- content: „Triton X-100“ - 2 val.,, „Tween 80“- 4 val., ir natrio cholatai - 24 val
   created: 1584597109852
   id: QccavNuGxbKfa1nBjZJvNRhb
-  modified: 1584597318069
+  modified: 1584600521643
   note: .[ref](https://pubmed.ncbi.nlm.nih.gov/17002634/)
 - children:
   - EGAWpIdWSgW0cTl7FQL0dAXv
@@ -371,9 +358,8 @@
   id: mqAf8NXkZD1cWDvjmFM2EgsS
   modified: 1584597569483
   note: ''
-- checkbox: true
-  content: Pvz., n
+- content: Pvz., naudoti viešbučiams kaip ligoninėms.
   created: 1584597584650
   id: UYG_nW99EjOhz2t-ya-LqalN
-  modified: 1584597599485
+  modified: 1584600533654
   note: ''
