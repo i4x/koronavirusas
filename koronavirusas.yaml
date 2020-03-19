@@ -174,10 +174,11 @@
   - OlfzEwtIeauS7rTx5N-zqACo
   - t2qAaB7RzdRV_oaWoTj8Ep2d
   - 1SkuiK_ye5hNCNA2RrOKDVQc
-  content: '**Higienos**'
+  - xM1RT8p7nkfTl0jhSnTpg5Oo
+  content: '**Medicininės/Higienos**'
   created: 1584375965389
   id: zSzqMJawXMdv621Aibn0Q7dn
-  modified: 1584375969963
+  modified: 1584614283524
   note: ''
 - content: Turėklų ir dažnai žmonių liečiamų paviršių dezinfekcija
   created: 1584375976096
@@ -249,6 +250,7 @@
   modified: 1584376773468
   note: ''
 - children:
+  - 7-NiGQTS0zsmDpXzTWik7oPa
   - 79KhodaFzoG9gdX-ZPdLzYtS
   - rvg0X6pzcemLlZlzla8sUELL
   - tTSLMw_nfThBP2-rKP0YB_da
@@ -340,10 +342,13 @@
 - children:
   - EGAWpIdWSgW0cTl7FQL0dAXv
   - mqAf8NXkZD1cWDvjmFM2EgsS
-  content: '**Strateginės/Prevencinės**'
+  - kPxoCLyokbhx50AITsOzF79c
+  - ZvEeOAFbt0CKDYe98MJJhSLV
+  - KKRuRZgYPg7XBe2giYA96kgF
+  content: '**Strateginės/Medicininės/Prevencinės**'
   created: 1584597448926
   id: d5Cl3njkYCRQrKPSG7Nee3vS
-  modified: 1584597527500
+  modified: 1584614253549
   note: ''
 - content: Izoliuoti jautrias populiacijas, kaip senyvo amžiaus žmonės, ir pan.
   created: 1584597479607
@@ -359,4 +364,64 @@
   created: 1584597584650
   id: UYG_nW99EjOhz2t-ya-LqalN
   modified: 1584600533654
+  note: ''
+- children:
+  - S0OVyiv0qH_ZbtjZYvMfF1wK
+  content: '**Kvėpavimo aparatai**'
+  created: 1584614249265
+  id: kPxoCLyokbhx50AITsOzF79c
+  modified: 1584614265528
+  note: ''
+- children:
+  - 7DfgDBbPCljAf6u0pEWRPgpk
+  content: '**Vaistai**'
+  created: 1584614257060
+  id: KKRuRZgYPg7XBe2giYA96kgF
+  modified: 1584614295531
+  note: ''
+- children:
+  - ZEhHG4MKbAqwsBZJonFRkgT3
+  content: '**Express testai**'
+  created: 1584614254569
+  id: ZvEeOAFbt0CKDYe98MJJhSLV
+  modified: 1584614265528
+  note: ''
+- content: ''
+  created: 1584614259152
+  id: S0OVyiv0qH_ZbtjZYvMfF1wK
+  modified: 1584614259551
+  note: ''
+- children:
+  - CVD57qQy7TKehA-TxQNTQ3-7
+  content: '**Vaistai**'
+  created: 1584614283823
+  id: xM1RT8p7nkfTl0jhSnTpg5Oo
+  modified: 1584614289529
+  note: ''
+- content: ''
+  created: 1584614286431
+  id: CVD57qQy7TKehA-TxQNTQ3-7
+  modified: 1584614289529
+  note: ''
+- content: ''
+  created: 1584614291504
+  id: 7DfgDBbPCljAf6u0pEWRPgpk
+  modified: 1584614295531
+  note: ''
+- content: ''
+  created: 1584614292680
+  id: ZEhHG4MKbAqwsBZJonFRkgT3
+  modified: 1584614295531
+  note: ''
+- children:
+  - eggKYA8DUKOPSaEELVEoMcc5
+  content: Laiko kontrolė
+  created: 1584614347098
+  id: 7-NiGQTS0zsmDpXzTWik7oPa
+  modified: 1584614355527
+  note: ''
+- content: Prekybos valandos, skirtos jautriems žmonėms.
+  created: 1584614355180
+  id: eggKYA8DUKOPSaEELVEoMcc5
+  modified: 1584614373518
   note: ''
