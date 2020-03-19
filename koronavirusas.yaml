@@ -4,12 +4,13 @@
   content: Koronaviruso prevencija Lietuvoje
   created: 1584375657969
   id: root
-  modified: 1584601068283
+  modified: 1584601903218
   note: 'https://0oo.li/intent/1247/?l=lt  (sąrašas yra viešai redaguojamas, ir [GitHub:backup](https://github.com/i4x/koronavirusas)''inamas)
 
     **Rašykite, ir žymėkite varnele priemones, kurios jau apsvarstytos, ir įgyvendinamos.**
 
-    [Redagavimo pagalba](https://dynalist.io/d/Fe_0fD6kKjAN82TQjASOSD10).'
+    [Redagavimo pagalba](https://dynalist.io/d/Fe_0fD6kKjAN82TQjASOSD10). Ir be to:
+    Galite kopijuoti visą šį doc. į savo erdvę.'
 - checkbox: true
   checked: true
   content: 'Draudžiama į šalį atvykti užsieniečiams, išskyrus asmenis, užtikrinančius
@@ -173,7 +174,6 @@
   - OlfzEwtIeauS7rTx5N-zqACo
   - t2qAaB7RzdRV_oaWoTj8Ep2d
   - 1SkuiK_ye5hNCNA2RrOKDVQc
-  collapsed: true
   content: '**Higienos**'
   created: 1584375965389
   id: zSzqMJawXMdv621Aibn0Q7dn
@@ -189,7 +189,6 @@
   - LTThRjir2GFQDxOPIoLs_zV7
   - VITQwadaB_4A1Yy_61RrNGoE
   - d5Cl3njkYCRQrKPSG7Nee3vS
-  collapsed: true
   content: '**Strateginės/Grafų teorijos**'
   created: 1584376261037
   id: o8UN1sL31yt2TIDGsdnuNVb8
@@ -207,7 +206,6 @@
 - children:
   - pMYqJDj4Kdml9bYvbG_0QJtS
   - VmR-1rQTDjn0CEiVBRqTrmq-
-  collapsed: true
   content: '**Ekonominės**'
   created: 1584376296407
   id: BPTRXXN6Fan1QyoO09yizoQx
@@ -258,7 +256,6 @@
   - yCsXMUMqVboTvp6CkadM8FtU
   - g2-Jzcq6M7Q3FXfidTzwbBar
   - QccavNuGxbKfa1nBjZJvNRhb
-  collapsed: true
   content: '**Fizikinės/Biologinės/Cheminės**'
   created: 1584376928223
   id: NcWJ2lUEourpZ-zEOtgWM7XF
