@@ -188,12 +188,15 @@
   - 5GMLKYGvSVwTbvp8J3x-M8Yx
   - LTThRjir2GFQDxOPIoLs_zV7
   - VITQwadaB_4A1Yy_61RrNGoE
+  - d5Cl3njkYCRQrKPSG7Nee3vS
   content: '**Strateginės/Grafų teorijos**'
   created: 1584376261037
   id: o8UN1sL31yt2TIDGsdnuNVb8
   modified: 1584376287482
   note: ''
 - checkbox: true
+  children:
+  - 9kfTlImcbWgz7gTlTnhsqnXB
   content: __Kontaktų atsekimas (Contact Tracing)__
   created: 1584376264163
   id: LTThRjir2GFQDxOPIoLs_zV7
@@ -210,6 +213,8 @@
   modified: 1584376311470
   note: ''
 - checkbox: true
+  children:
+  - UYG_nW99EjOhz2t-ya-LqalN
   content: Stimulo paketai įmonėms, kurios vysto sprendimus
   created: 1584376311632
   id: pMYqJDj4Kdml9bYvbG_0QJtS
@@ -254,17 +259,20 @@
   - tTSLMw_nfThBP2-rKP0YB_da
   - dR67QkhQY1ojeiwJ_CtFreJG
   - yCsXMUMqVboTvp6CkadM8FtU
-  content: '**Fizikinės/Biologinės**'
+  - g2-Jzcq6M7Q3FXfidTzwbBar
+  - QccavNuGxbKfa1nBjZJvNRhb
+  content: '**Fizikinės/Biologinės/Cheminės**'
   created: 1584376928223
   id: NcWJ2lUEourpZ-zEOtgWM7XF
-  modified: 1584376947461
+  modified: 1584596323939
   note: ''
 - checkbox: true
   content: Temperatūros kontrolė
   created: 1584376939692
   id: rvg0X6pzcemLlZlzla8sUELL
-  modified: 1584378877527
-  note: ''
+  modified: 1584597167471
+  note: + SARS-CoV inaktyvavimui reikėjo terminio apdorojimo 60 laipsnių C temperatūroje
+    nuo 15 iki 30 minučių. [ref](https://pubmed.ncbi.nlm.nih.gov/17002634/)
 - checkbox: true
   content: Drėgmės kontrolė
   created: 1584376946174
@@ -281,8 +289,11 @@
   content: UV ir kt. radiacija.
   created: 1584376981003
   id: dR67QkhQY1ojeiwJ_CtFreJG
-  modified: 1584378877527
-  note: ''
+  modified: 1584597179512
+  note: + UVC veiksmingai suaktyvino SARS-CoV per 40 minučių, tuo tarpu UVA reikėjo
+    pridėti psoraleno, kad būtų galima aktyvinti virusą. Galvijų serumo albumino buvimas
+    apribojo UVC ir UVA sugebėjimą inaktyvinti SARS-CoV, o gydymas oktano rūgštimi
+    nesumažina SARS-CoV turinčių baltymų tirpalų užkrečiamumo. [ref](https://pubmed.ncbi.nlm.nih.gov/17002634/)
 - checkbox: true
   content: '__Super-skleidėjų identifikavimas ir ypatingų priemonių paskyrimas (Preventing
     superspreaders)__ '
@@ -311,4 +322,58 @@
   created: 1584537925548
   id: PNnB3Wn07GEFCIq-nT2VEUxU
   modified: 1584538011071
+  note: ''
+- checkbox: true
+  children:
+  - lk5mW3eSRBOQAQuAnS6f3Z-V
+  content: Paviršių savybės ir dizinfekcija
+  created: 1584596324844
+  id: g2-Jzcq6M7Q3FXfidTzwbBar
+  modified: 1584597119491
+  note: ''
+- checkbox: true
+  content: Kombinuoti kontaktų atsekimą su dizinfekcija -- Sodininkai turi priemonių
+    purkšti medžius aerozoliais.
+  created: 1584596408765
+  id: 9kfTlImcbWgz7gTlTnhsqnXB
+  modified: 1584597287473
+  note: ''
+- checkbox: true
+  content: Varis, Alkoholis, Vandenio Peroksidas, Buitinis Baliklis
+  created: 1584597079494
+  id: lk5mW3eSRBOQAQuAnS6f3Z-V
+  modified: 1584597125487
+  note: 'Čia dėl varinių paviršių - viruso degradacija, ir pusamžis. Žinutė: variniai
+    paviršiai save dezinfekuojasi per 4 valandas... Bet yra greitesnis sprendimas
+    - 62–71% alkoholio tirpalas, arba 0,5% vandenilio peroksido tirpalas, arba buitinis
+    baliklis, kuriame yra 0,1% natrio hipochlorito. [https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home](https://slack-redir.net/link?url=https%3A%2F%2Fwww.nejm.org%2Fdoi%2Ffull%2F10.1056%2FNEJMc2004973%3Fquery%3Dfeatured_home)'
+- checkbox: true
+  content: „Triton X-100“ - 2 val.,, „Tween 80“- 4 val., ir natrio cholatai - 24 val
+  created: 1584597109852
+  id: QccavNuGxbKfa1nBjZJvNRhb
+  modified: 1584597318069
+  note: .[ref](https://pubmed.ncbi.nlm.nih.gov/17002634/)
+- children:
+  - EGAWpIdWSgW0cTl7FQL0dAXv
+  - mqAf8NXkZD1cWDvjmFM2EgsS
+  content: '**Strateginės/Prevencinės**'
+  created: 1584597448926
+  id: d5Cl3njkYCRQrKPSG7Nee3vS
+  modified: 1584597527500
+  note: ''
+- content: Izoliuoti jautrias populiacijas, kaip senyvo amžiaus žmonės, ir pan.
+  created: 1584597479607
+  id: EGAWpIdWSgW0cTl7FQL0dAXv
+  modified: 1584597503476
+  note: ''
+- content: Kontroliuoti ligoninių lovų skaičius regionuose.
+  created: 1584597556869
+  id: mqAf8NXkZD1cWDvjmFM2EgsS
+  modified: 1584597569483
+  note: ''
+- checkbox: true
+  content: Pvz., n
+  created: 1584597584650
+  id: UYG_nW99EjOhz2t-ya-LqalN
+  modified: 1584597599485
   note: ''
