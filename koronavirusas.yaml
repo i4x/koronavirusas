@@ -429,11 +429,13 @@
   id: eggKYA8DUKOPSaEELVEoMcc5
   modified: 1584614373518
   note: ''
-- content: '**__remdesivir__**'
+- color: 4
+  content: '**__remdesivir__** - Very promising.'
   created: 1584768321929
   id: D8P5KGOL9dyZ27I4QHJ_xCvj
-  modified: 1584768684748
+  modified: 1584798792080
   note: https://www.nih.gov/news-events/news-releases/nih-clinical-trial-remdesivir-treat-covid-19-begins
+    https://youtu.be/6obVaOAyHro?t=92
 - content: '**__kaletra__**'
   created: 1584768334975
   id: P9lT7n1-X1rXvdZfycpLYRHI
