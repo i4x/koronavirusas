@@ -1,10 +1,10 @@
 - children:
   - PNnB3Wn07GEFCIq-nT2VEUxU
   - 9eMOZ7lLasc4X1I8uRHRJ9hs
-  content: Koronaviruso prevencija Lietuvoje
+  content: Koronaviruso prevencija ir gydymas Lietuvoje
   created: 1584375657969
   id: root
-  modified: 1584601903218
+  modified: 1584768284679
   note: 'https://0oo.li/intent/1247/?l=lt  (sąrašas yra viešai redaguojamas, ir [GitHub:backup](https://github.com/i4x/koronavirusas)''inamas)
 
     **Rašykite, ir žymėkite varnele priemones, kurios jau apsvarstytos, ir įgyvendinamos.**
@@ -374,10 +374,13 @@
   note: ''
 - children:
   - 7DfgDBbPCljAf6u0pEWRPgpk
+  - D8P5KGOL9dyZ27I4QHJ_xCvj
+  - P9lT7n1-X1rXvdZfycpLYRHI
+  color: 3
   content: '**Vaistai**'
   created: 1584614257060
   id: KKRuRZgYPg7XBe2giYA96kgF
-  modified: 1584614295531
+  modified: 1584768456747
   note: ''
 - children:
   - ZEhHG4MKbAqwsBZJonFRkgT3
@@ -403,11 +406,12 @@
   id: CVD57qQy7TKehA-TxQNTQ3-7
   modified: 1584614289529
   note: ''
-- content: ''
+- color: 4
+  content: '**__hydroxychloroquine__** -  FDA-Approved for COVID-19, in U.S.'
   created: 1584614291504
   id: 7DfgDBbPCljAf6u0pEWRPgpk
-  modified: 1584614295531
-  note: ''
+  modified: 1584768751242
+  note: https://www.nature.com/articles/s41421-020-0156-0
 - content: ''
   created: 1584614292680
   id: ZEhHG4MKbAqwsBZJonFRkgT3
@@ -425,3 +429,13 @@
   id: eggKYA8DUKOPSaEELVEoMcc5
   modified: 1584614373518
   note: ''
+- content: '**__remdesivir__**'
+  created: 1584768321929
+  id: D8P5KGOL9dyZ27I4QHJ_xCvj
+  modified: 1584768684748
+  note: https://www.nih.gov/news-events/news-releases/nih-clinical-trial-remdesivir-treat-covid-19-begins
+- content: '**__kaletra__**'
+  created: 1584768334975
+  id: P9lT7n1-X1rXvdZfycpLYRHI
+  modified: 1584768684748
+  note: https://www.youtube.com/watch?v=I4IIPRU-CSg
