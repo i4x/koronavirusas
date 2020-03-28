@@ -379,6 +379,8 @@
   - D8P5KGOL9dyZ27I4QHJ_xCvj
   - P9lT7n1-X1rXvdZfycpLYRHI
   - 1gv55MxZk98NRaW9VL8ByAOB
+  - kc1qMG4czvOvAWcUbta30OOh
+  - 9rBRE64YTxbhTf_108IOisGT
   color: 3
   content: '**Vaistai**'
   created: 1584614257060
@@ -460,3 +462,13 @@
   id: 1gv55MxZk98NRaW9VL8ByAOB
   modified: 1585244838856
   note: http://m.technologijos.lt/cat/121/article/S-81320
+- content: '**Azithromycin** (and zinc)'
+  created: 1585399464448
+  id: kc1qMG4czvOvAWcUbta30OOh
+  modified: 1585399476659
+  note: ''
+- content: Vitamin D.
+  created: 1585399471020
+  id: 9rBRE64YTxbhTf_108IOisGT
+  modified: 1585399482632
+  note: ''
