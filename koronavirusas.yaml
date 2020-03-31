@@ -381,6 +381,7 @@
   - wyCXzUbxSHDEuahfIobpPggC
   - 1gv55MxZk98NRaW9VL8ByAOB
   - kc1qMG4czvOvAWcUbta30OOh
+  - nMsg-kVx6eMcJ8KXc4Xxza4W
   - 9rBRE64YTxbhTf_108IOisGT
   color: 3
   content: '**Vaistai**'
@@ -464,10 +465,10 @@
   id: 1gv55MxZk98NRaW9VL8ByAOB
   modified: 1585464876641
   note: http://m.technologijos.lt/cat/121/article/S-81320
-- content: '**Azithromycin** (and zinc)'
+- content: '**Azithromycin**'
   created: 1585399464448
   id: kc1qMG4czvOvAWcUbta30OOh
-  modified: 1585399476659
+  modified: 1585678154053
   note: ''
 - content: Vitamin D.
   created: 1585399471020
@@ -484,3 +485,8 @@
   id: wyCXzUbxSHDEuahfIobpPggC
   modified: 1585475976173
   note: https://www.bmj.com/content/368/bmj.m1256
+- content: Zinc
+  created: 1585678145171
+  id: nMsg-kVx6eMcJ8KXc4Xxza4W
+  modified: 1585678148067
+  note: ''
