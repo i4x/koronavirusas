@@ -342,6 +342,7 @@
 - children:
   - EGAWpIdWSgW0cTl7FQL0dAXv
   - mqAf8NXkZD1cWDvjmFM2EgsS
+  - 3lic7hMw95M66UHg8qKiCmm5
   - kPxoCLyokbhx50AITsOzF79c
   - ZvEeOAFbt0CKDYe98MJJhSLV
   - KKRuRZgYPg7XBe2giYA96kgF
@@ -377,6 +378,7 @@
 - children:
   - 7DfgDBbPCljAf6u0pEWRPgpk
   - D8P5KGOL9dyZ27I4QHJ_xCvj
+  - 6uQAuTqKAh9M7mKAiWCz2ylR
   - P9lT7n1-X1rXvdZfycpLYRHI
   - wyCXzUbxSHDEuahfIobpPggC
   - 1gv55MxZk98NRaW9VL8ByAOB
@@ -445,10 +447,11 @@
   modified: 1584798792080
   note: https://www.nih.gov/news-events/news-releases/nih-clinical-trial-remdesivir-treat-covid-19-begins
     https://youtu.be/6obVaOAyHro?t=92
-- content: '**__kaletra__**'
+- color: 4
+  content: '**__kaletra__**'
   created: 1584768334975
   id: P9lT7n1-X1rXvdZfycpLYRHI
-  modified: 1585475964173
+  modified: 1585681880521
   note: https://www.youtube.com/watch?v=I4IIPRU-CSg
 - content: ''
   created: 1585025778511
@@ -480,13 +483,32 @@
   id: Zqbzbx59fuYTbVIAGjkva2sF
   modified: 1585475946173
   note: https://youtu.be/gAk7aX5hksU?t=1945
-- content: '**Convalescent plasma from recovered patients** '
+- color: 4
+  content: '**Convalescent plasma from recovered patients** '
   created: 1585464733376
   id: wyCXzUbxSHDEuahfIobpPggC
-  modified: 1585475976173
+  modified: 1585681880521
   note: https://www.bmj.com/content/368/bmj.m1256
 - content: Zinc
   created: 1585678145171
   id: nMsg-kVx6eMcJ8KXc4Xxza4W
   modified: 1585678148067
+  note: ''
+- color: 4
+  content: '**__Favilavir__**'
+  created: 1585681701530
+  id: 6uQAuTqKAh9M7mKAiWCz2ylR
+  modified: 1585681718048
+  note: https://www.hospimedica.com/coronavirus/articles/294781247/fujifilms-antiviral-becomes-first-approved-drug-to-treat-coronavirus-in-china.html
+- children:
+  - OOLsDGe7sKkRuYEtTZCKomwi
+  content: '**Kaukės**'
+  created: 1585681910786
+  id: 3lic7hMw95M66UHg8qKiCmm5
+  modified: 1585681916052
+  note: ''
+- content: ''
+  created: 1585681913501
+  id: OOLsDGe7sKkRuYEtTZCKomwi
+  modified: 1585681916052
   note: ''
