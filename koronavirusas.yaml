@@ -1,5 +1,6 @@
 - children:
   - PNnB3Wn07GEFCIq-nT2VEUxU
+  - Z8QtVSydZfu2eHP1Ncu4lKqV
   - 9eMOZ7lLasc4X1I8uRHRJ9hs
   content: Koronaviruso prevencija ir gydymas Lietuvoje
   created: 1584375657969
@@ -263,26 +264,26 @@
   id: NcWJ2lUEourpZ-zEOtgWM7XF
   modified: 1584596323939
   note: ''
-- content: Temperatūros kontrolė
+- content: '**Temperatūros kontrolė**'
   created: 1584376939692
   id: rvg0X6pzcemLlZlzla8sUELL
-  modified: 1584600521643
+  modified: 1585827215710
   note: + SARS-CoV inaktyvavimui reikėjo terminio apdorojimo 60 laipsnių C temperatūroje
     nuo 15 iki 30 minučių. [ref](https://pubmed.ncbi.nlm.nih.gov/17002634/)
-- content: Drėgmės kontrolė
+- content: '**Drėgmės kontrolė**'
   created: 1584376946174
   id: tTSLMw_nfThBP2-rKP0YB_da
-  modified: 1584600521643
+  modified: 1585827221709
   note: ''
-- content: Technika deaktyvuoti virusą aerozoliais.
+- content: '**Technika deaktyvuoti virusą aerozoliais.**'
   created: 1584376949924
   id: yCsXMUMqVboTvp6CkadM8FtU
-  modified: 1584600521643
+  modified: 1585827221709
   note: Pvz., Kinijoje purškiamos gatvės
-- content: UV ir kt. radiacija.
+- content: '**UV ir kt. radiacija.**'
   created: 1584376981003
   id: dR67QkhQY1ojeiwJ_CtFreJG
-  modified: 1584600521643
+  modified: 1585827221709
   note: + UVC veiksmingai suaktyvino SARS-CoV per 40 minučių, tuo tarpu UVA reikėjo
     pridėti psoraleno, kad būtų galima aktyvinti virusą. Galvijų serumo albumino buvimas
     apribojo UVC ir UVA sugebėjimą inaktyvinti SARS-CoV, o gydymas oktano rūgštimi
@@ -303,10 +304,10 @@
   id: jD1K8_inYDX566A6yyA7aqrn
   modified: 1584600545629
   note: ''
-- content: Oro krypčių kontrolė
+- content: '**Oro krypčių kontrolė**'
   created: 1584381649898
   id: 79KhodaFzoG9gdX-ZPdLzYtS
-  modified: 1584600521643
+  modified: 1585827191726
   note: ''
 - content: __Čia gali rašyti bet kas. Jei kas ką ištrynė, tai pasimatys [istorijoje](https://github.com/i4x/koronavirusas/commits/master).__
   created: 1584537925548
@@ -314,11 +315,12 @@
   modified: 1584600940214
   note: __(statykite kursorių **bet kur**, spauskite "Enter", kad įterpti naują eilutę)__
 - children:
+  - 1eQYRHmiufk5uWQh5bBjqqOB
   - lk5mW3eSRBOQAQuAnS6f3Z-V
-  content: Paviršių savybės ir dizinfekcija
+  content: '**Paviršių savybės ir dizinfekcija**'
   created: 1584596324844
   id: g2-Jzcq6M7Q3FXfidTzwbBar
-  modified: 1584600521643
+  modified: 1585827221709
   note: ''
 - content: Kombinuoti kontaktų atsekimą su dezinfekcija -- pvz., sodininkai turi priemonių
     purkšti medžius aerozoliais [**Fizikinės/Biologinės/Cheminės**](https://dynalist.io/d/YO2BEN6Ng1CoJQ1Gzi4tfWHE#z=NcWJ2lUEourpZ-zEOtgWM7XF)
@@ -326,10 +328,10 @@
   id: 9kfTlImcbWgz7gTlTnhsqnXB
   modified: 1584600498113
   note: ''
-- content: Varis, Alkoholis, Vandenio Peroksidas, Buitinis Baliklis
+- content: '**Varis, Alkoholis, Vandenio Peroksidas, Buitinis Baliklis**'
   created: 1584597079494
   id: lk5mW3eSRBOQAQuAnS6f3Z-V
-  modified: 1584600521643
+  modified: 1585827233718
   note: 'Čia dėl varinių paviršių - viruso degradacija, ir pusamžis. Žinutė: variniai
     paviršiai save dezinfekuojasi per 4 valandas... Bet yra greitesnis sprendimas
     - 62–71% alkoholio tirpalas, arba 0,5% vandenilio peroksido tirpalas, arba buitinis
@@ -430,10 +432,10 @@
   note: ''
 - children:
   - eggKYA8DUKOPSaEELVEoMcc5
-  content: Laiko kontrolė
+  content: '**Laiko kontrolė**'
   created: 1584614347098
   id: 7-NiGQTS0zsmDpXzTWik7oPa
-  modified: 1584614355527
+  modified: 1585827191726
   note: ''
 - content: Prekybos valandos, skirtos jautriems žmonėms.
   created: 1584614355180
@@ -511,4 +513,35 @@
   created: 1585681913501
   id: OOLsDGe7sKkRuYEtTZCKomwi
   modified: 1585681916052
+  note: ''
+- content: Purkšti paviršius **lipofobiniu/oleofobiniu nanodalelių** skysčiu, kad
+    nepriliptų virusai.
+  created: 1585825423106
+  id: 1eQYRHmiufk5uWQh5bBjqqOB
+  modified: 1585827233718
+  note: ''
+- children:
+  - MaLuPyCDGXjI5q4j_Cz2JT_I
+  - rL3Tr2I3mpNj39yNgqZEX_kg
+  - pPXqvbRDH8n7-w6JsX63GC3X
+  content: '**Referatai**'
+  created: 1585826765913
+  id: Z8QtVSydZfu2eHP1Ncu4lKqV
+  modified: 1585826808079
+  note: ''
+- content: '[COVID-19 prevencijos ir gydymo vadovas](https://view.publitas.com/vilniaus-miesto-savivaldybe/covid-19-prevencijos-ir-gydymo-vadovas-1-_new/page/1)'
+  created: 1585826776589
+  id: MaLuPyCDGXjI5q4j_Cz2JT_I
+  modified: 1585826892074
+  note: Sudarytas pagal klinikinę Džedziango universitetinės medicinos mokyklos patirtį,
+    remiantis 104 pacientų, sirgusių COVID-19 gydymu.
+- content: '[Koronavirusas 2019-nCoV/SARS-CoV-2 (COVID-19 liga). Simptomai, prevencija](https://paliesiausklinika.lt/koronavirusas/)'
+  created: 1585826877702
+  id: pPXqvbRDH8n7-w6JsX63GC3X
+  modified: 1585826945582
+  note: ''
+- content: '[LessWrong koronaviruso nuorodų duomenų bazė](https://www.lesswrong.com/coronavirus-link-database)'
+  created: 1585827055249
+  id: rL3Tr2I3mpNj39yNgqZEX_kg
+  modified: 1585827083596
   note: ''
