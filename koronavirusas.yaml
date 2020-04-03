@@ -504,15 +504,16 @@
   note: https://www.hospimedica.com/coronavirus/articles/294781247/fujifilms-antiviral-becomes-first-approved-drug-to-treat-coronavirus-in-china.html
 - children:
   - OOLsDGe7sKkRuYEtTZCKomwi
+  - zaonKeVUjm5M8IBhJYT4HdeE
   content: '**Kaukės**'
   created: 1585681910786
   id: 3lic7hMw95M66UHg8qKiCmm5
   modified: 1585681916052
   note: ''
-- content: ''
+- content: Pakaitalas -- siurblio HEPA filtrai.
   created: 1585681913501
   id: OOLsDGe7sKkRuYEtTZCKomwi
-  modified: 1585681916052
+  modified: 1585915286259
   note: ''
 - content: Purkšti paviršius **lipofobiniu/oleofobiniu nanodalelių** skysčiu, kad
     nepriliptų virusai.
@@ -544,4 +545,9 @@
   created: 1585827055249
   id: rL3Tr2I3mpNj39yNgqZEX_kg
   modified: 1585827083596
+  note: ''
+- content: ''
+  created: 1585915269771
+  id: zaonKeVUjm5M8IBhJYT4HdeE
+  modified: 1585915274084
   note: ''
