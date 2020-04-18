@@ -201,8 +201,8 @@
   content: __Kontaktų atsekimas (Contact Tracing)__
   created: 1584376264163
   id: LTThRjir2GFQDxOPIoLs_zV7
-  modified: 1584600498113
-  note: Yra kritiška greitai atsketi, ir izoliuoti tuos, su kuriais užsikrėtusieji
+  modified: 1587236940771
+  note: Yra kritiška greitai atsekti, ir izoliuoti tuos, su kuriais užsikrėtusieji
     bendravo. Pvz., visi žmonės atskridę lėktuvu su kuriuo atskrido žmogus, kuris
     buvo apsikrėtęs, turėtų būti karantinuoti.
 - children:
@@ -317,10 +317,10 @@
 - children:
   - 1eQYRHmiufk5uWQh5bBjqqOB
   - lk5mW3eSRBOQAQuAnS6f3Z-V
-  content: '**Paviršių savybės ir dizinfekcija**'
+  content: '**Paviršių savybės ir dezinfekcija**'
   created: 1584596324844
   id: g2-Jzcq6M7Q3FXfidTzwbBar
-  modified: 1585827221709
+  modified: 1587236911246
   note: ''
 - content: Kombinuoti kontaktų atsekimą su dezinfekcija -- pvz., sodininkai turi priemonių
     purkšti medžius aerozoliais [**Fizikinės/Biologinės/Cheminės**](https://dynalist.io/d/YO2BEN6Ng1CoJQ1Gzi4tfWHE#z=NcWJ2lUEourpZ-zEOtgWM7XF)
@@ -328,10 +328,10 @@
   id: 9kfTlImcbWgz7gTlTnhsqnXB
   modified: 1584600498113
   note: ''
-- content: '**Varis, Alkoholis, Vandenio Peroksidas, Buitinis Baliklis**'
+- content: '**Varis, Alkoholis, Vandenilio Peroksidas, Buitinis Baliklis**'
   created: 1584597079494
   id: lk5mW3eSRBOQAQuAnS6f3Z-V
-  modified: 1585827233718
+  modified: 1587236976775
   note: 'Čia dėl varinių paviršių - viruso degradacija, ir pusamžis. Žinutė: variniai
     paviršiai save dezinfekuojasi per 4 valandas... Bet yra greitesnis sprendimas
     - 62–71% alkoholio tirpalas, arba 0,5% vandenilio peroksido tirpalas, arba buitinis
