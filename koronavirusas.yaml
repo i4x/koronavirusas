@@ -24,6 +24,7 @@
   modified: 1584375830225
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Gydymo įstaigose atidedamos planinės operacijos, išskyrus būtiną medicininę
     pagalbą, atšaukiamos reabilitacijos, odontologijos paslaugos, planiniai skiepai.
@@ -32,6 +33,7 @@
   modified: 1584375872212
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Draudžiamas pacientų lankymas gydymo įstaigose, kalinių – įkalinimo įstaigose.
   created: 1584375669698
@@ -39,6 +41,7 @@
   modified: 1584375854206
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Draudžiama teikti SPA, reabilitacijos paslaugas, jei jos nėra susijusios
     su gydymu, draudžiama kirpyklų, grožio salonų veikla.
@@ -47,6 +50,7 @@
   modified: 1584375854206
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Draudžiama kavinių, barų veikla, išskyrus maisto išsinešimui paslaugą.
   created: 1584375669697
@@ -54,6 +58,7 @@
   modified: 1584375842215
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Uždrausta prekyba parduotuvėse, išskyrus maisto prekių parduotuves, vaistines,
     specializuotas veterinarijos vaistines, maisto produktais prekiaujančius turgus.
@@ -62,6 +67,7 @@
   modified: 1584375842215
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   checked: true
   content: Draudžiama Lietuvos piliečiams visų rūšių transportu išvykti į koronaviruso
@@ -72,6 +78,7 @@
   modified: 1584375836201
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Ribojamas keleivių skaičius tarpmiestiniuose autobusuose ir traukiniuose,
     kad būtų išlaikomas reikiamas atstumas tarp keleivių. Rekomenduojama tai taikyti
@@ -81,6 +88,7 @@
   modified: 1584375860204
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Švietimo įstaigos toliau lieka uždarytos.
   created: 1584375669699
@@ -88,6 +96,7 @@
   modified: 1584375866207
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   checked: true
   content: Sumažinama pasienio kontrolės punktų, per kuriuos galima atvykti į Lietuvą,
@@ -96,6 +105,7 @@
   modified: 1584375824723
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Draudžiami visi vieši renginiai, tiek uždarose, tiek atvirose erdvėse.
   created: 1584375669697
@@ -103,6 +113,7 @@
   modified: 1584375842215
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Draudžiama viešojo administravimo įstaigoms teikti nebūtinas paslaugas.
   created: 1584375669698
@@ -110,6 +121,7 @@
   modified: 1584375848220
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Draudžiama patekti kruiziniams laivams į Klaipėdos jūrų uostą.
   created: 1584375669697
@@ -117,6 +129,7 @@
   modified: 1584375848220
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Viešbučiai, esant reikalui, turės įsileisti žmones į karantiną, valstybei
     už tai apmokant.
@@ -125,6 +138,7 @@
   modified: 1584375866207
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - checkbox: true
   content: Tiek viešajame, tiek privačiame sektoriuje darbuotojams rekomenduojama
     dirbti iš namų.
@@ -133,6 +147,7 @@
   modified: 1584375872212
   note: '[jp.lt](https://jp.lt/lietuvoje-pirmadieni-planuojama-ivesti-karantina-15-svarstomu-ribojimu/)
     !(2020-03-14) '
+  numbered: true
 - children:
   - o8UN1sL31yt2TIDGsdnuNVb8
   - NcWJ2lUEourpZ-zEOtgWM7XF
